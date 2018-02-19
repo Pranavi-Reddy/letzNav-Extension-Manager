@@ -1,0 +1,35 @@
+{
+  "name": "letznav-extension-management",
+  "version": "1.0.0",
+  "description": "letzNav Extension Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.14.1",
+    "copy": "^0.3.1",
+    "copy-dir": "^0.3.0",
+    "decompress": "^4.2.0",
+    "decompress-zip": "^0.3.0",
+    "delay": "^2.0.0",
+    "delayed": "^1.0.1",
+    "download": "^6.2.5",
+    "download-file": "^0.1.5",
+    "extract-zip": "^1.6.6",
+    "filename": "^0.5.0",
+    "gulp": "^3.9.1",
+    "gulp-unzip": "^1.0.0",
+    "inquirer": "^5.1.0",
+    "nexe": "^2.0.0-rc.25",
+    "prompt": "^1.0.0",
+    "unzip": "^0.1.11",
+    "unzip-crx": "^0.2.0",
+    "unzip2": "^0.2.5",
+    "unzipper": "^0.8.11",
+    "zip-local": "^0.3.4",
+    "zstream": "^0.1.1"
+  }
+}
